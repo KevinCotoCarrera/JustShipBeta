@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="vuesaxoutlinedollar-circle">
+    <g id="vuesaxoutlinedollar-circle">
+      <g id="dollar-circle">
+        <path d="M2.98 10.84C1.34 10.84 0.0100002 9.46 0.0100002 7.76C0.0100002 7.35 0.35 7.01 0.76 7.01C1.17 7.01 1.51 7.35 1.51 7.76C1.51 8.63 2.17 9.34 2.98 9.34L5.49 9.34C6.14 9.34 6.68 8.76 6.68 8.06C6.68 7.19 6.37 7.02 5.86 6.84L1.83 5.42C1.05 5.15 0 4.57 0 2.78C0 1.24 1.21 0 2.69 0L5.2 0C6.84 0 8.17 1.38 8.17 3.08C8.17 3.49 7.83 3.83 7.42 3.83C7.01 3.83 6.67 3.49 6.67 3.08C6.67 2.21 6.01 1.5 5.2 1.5L2.69 1.5C2.04 1.5 1.5 2.08 1.5 2.78C1.5 3.65 1.81 3.82 2.32 4L6.35 5.42C7.13 5.69 8.18 6.27 8.18 8.06C8.17 9.59 6.97 10.84 5.49 10.84L2.98 10.84Z" transform="translate(7.9101562 6.580078)" id="Vector" fill="#292D32" fill-rule="evenodd" stroke="none" />
+        <path d="M0 12.75L0 0.75C0 0.34 0.34 0 0.75 0C1.16 0 1.5 0.34 1.5 0.75L1.5 12.75C1.5 13.16 1.16 13.5 0.75 13.5C0.34 13.5 0 13.16 0 12.75Z" transform="translate(11.25 5.25)" id="Vector" fill="#292D32" fill-rule="evenodd" stroke="none" />
+        <path d="M0 10.75C0 4.82 4.82 0 10.75 0C16.68 0 21.5 4.82 21.5 10.75C21.5 16.68 16.68 21.5 10.75 21.5C4.82 21.5 0 16.68 0 10.75ZM1.5 10.75C1.5 15.85 5.65 20 10.75 20C15.85 20 20 15.85 20 10.75C20 5.65 15.85 1.5 10.75 1.5C5.65 1.5 1.5 5.65 1.5 10.75Z" transform="translate(1.25 1.25)" id="Vector" fill="#292D32" fill-rule="evenodd" stroke="none" />
+        <path d="M24 0L24 24L0 24L0 0L24 0Z" id="Vector" fill="none" fill-rule="evenodd" stroke="none" />
+      </g>
+    </g>
+  </g>
+</svg>
