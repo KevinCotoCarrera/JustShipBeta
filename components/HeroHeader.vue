@@ -8,8 +8,7 @@
         <div class="flex flex-col justify-center text-center items-center mt-8 ml-3 mr-3">
         <h1 class="text-2xl sm:text-3xl xl:text-5xl font-semibold w-40 xl:w-60 sm:-ml-36 sm:text-center">Solo Lanza</h1>
         <p class="text-base sm:text-lg xl:text-2xl sm:text-left  font-normal mt-5 sm:mt-8 xl:mt-12 mb-5 sm:mb-8 xl:mb-12 w-3/4 sm:w-96 sm:-ml-36">Lancemos tu producto hoy, convierte con nosotros tus dudas en combustible, suscríbete ahora para obtener beneficios.</p>
-        <a class="sm:pl-10" href="#form-section"><button  class="flex justify-center  items-center content-center  sm:-ml-36 mr-1 text-base sm:text-lg xl:text-2xl bg-white px-4 sm:px-6 xl:px-16 w-24 sm:w-28 xl-36 h-8 sm:h-10 xl:h-14 rounded-lg sm:rounded-xl shadow-sm sm:shadow-md mb-3 sm:mb-5 xl:mb-8 " id="btn-sub">Suscribete</button></a> 
-       <a href="#donate-section">  <button  class="tex-base sm:text-lg xl:text-2xl  bg-transparent sm:-ml-36 w-24 sm:w-28 xl:w-36 h-8 sm:h-10">Dona</button> </a> 
+        <a href="#form-section"><button  class="flex justify-center  items-center content-center  sm:-ml-36 mr-1 text-base sm:text-lg xl:text-2xl bg-white px-4 sm:px-6 xl:px-16 w-24 sm:w-28 xl-36 h-8 sm:h-10 xl:h-14 rounded-lg sm:rounded-xl shadow-sm sm:shadow-md mb-3 sm:mb-5 xl:mb-8 " id="btn-sub">Suscribete</button></a> 
        <img class=" w-40 sm:w-60 h-40 sm:h-60 xl:w-72 xl:h-72 2xl:w-80 2xl:h-80 mt-4 sm:absolute sm:right-4 xl:right-20 sm:-mt-20"  src="../assets/launching-pana.svg"/>
         
         </div>
